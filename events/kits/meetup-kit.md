@@ -32,7 +32,7 @@ Before announcing the meetup to your community, send a note to the [public-testt
 
 <h2 id="meetup_topics">Meetup Topics</h2>
 
-As mentioned above, we suggest choosing a theme or topic for your meetup. Natrually, this will depends on your goals community's areas of interest. You are free to choose any topic you'd like, but here are some suggestions for things that align with the Test the Web Forward goals:
+As mentioned above, we suggest choosing a theme or topic for your meetup. Naturally, this will depends on your goals community's areas of interest. You are free to choose any topic you'd like, but here are some suggestions for things that align with the Test the Web Forward goals:
     
 #### Goal: &nbsp; Educate
 * The W3C Specification Lifecycle
